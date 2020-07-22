@@ -9,6 +9,7 @@
 ## Underwater Zoo :octopus:
 
 ## Adopt A Butterfly :butterfly:
+An application that enables player to create their own butterfly: [Adopt A Butterfly](https://github.com/ricebunnylove1/AdoptAButterfly)
 
 ## Shift Cipher :infinity:
 
