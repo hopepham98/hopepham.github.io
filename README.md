@@ -1,14 +1,14 @@
-## Hope Pham Programming Portfolio
-# Adventure Game
+# Hope Pham Programming Portfolio
+## Adventure Game
 
-# Study Application :books:
+## Study Application :books:
 
-# Explorable Areas :world_map:
+## Explorable Areas :world_map:
 
-# Underwater Zoo :octopus:
+## Underwater Zoo :octopus:
 
-# Adopt A Butterfly :butterfly:
+## Adopt A Butterfly :butterfly:
 
-# Shift Cipher :infinity:
+## Shift Cipher :infinity:
 
-# Strawberry Trivia Game :strawberry:
+## Strawberry Trivia Game :strawberry:
