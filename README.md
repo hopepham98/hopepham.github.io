@@ -6,7 +6,7 @@ A game that I have been working on for my Intro to Programming class during the 
 ## Programming Study Application :books: 
 An application that enables to take a short quiz on programming terms and tries to receive points: [Programming Study App](https://github.com/ricebunnylove1/ProgrammingStudyApp)
 
-## Image of Application Intro:
+### Image of Application Intro:
 
 ![ProgrammingStudyApp](https://user-images.githubusercontent.com/67672827/88249850-4803d880-cc6b-11ea-9425-fc70a082faf3.png)
 
@@ -24,6 +24,40 @@ An application allow player to learn about sea creatures and adopt one was well:
 
 ## Adopt A Butterfly :butterfly:
 An application that enables player to create their own butterfly: [Adopt A Butterfly](https://github.com/ricebunnylove1/AdoptAButterfly)
+
+### Example of Adopt A Butterfly Player Class Code:
+
+```markdown
+ public class Player
+    {
+        public static string Name = "Anonymous Player";
+        public static string Gender = "Anonymous Gender";
+
+        public void Start()
+        {
+            BackgroundColor = System.ConsoleColor.White;
+            ForegroundColor = System.ConsoleColor.Black;
+
+            TextInfo TitleCase = new CultureInfo("en-US", false).TextInfo;
+           
+            WriteLine("Welcome to Adopt A Butterfly by Hope Pham. In this application, you will be able to adapt your very own butterfly. To get you started, please introduce yourself. What is your name?");
+
+            Name = ReadLine();
+            Name = TitleCase.ToTitleCase(Name);
+            WriteLine("Hello " + Name +"!");
+            ReadLine();
+
+            WriteLine("Please include your pronoun.");
+
+            Gender = ReadLine();
+            WriteLine(Name + " like to be addressed as " + Gender + "." + " Now let's begin adopting your butterfly. Press enter to continue.");
+            ReadLine();
+
+            Clear();
+        }
+    }
+```
+
 
 ## Shift Cipher :infinity: 
 An application that encodes and decodes using a simple substitution cipher: [Shift Cipher](https://github.com/ricebunnylove1/ShiftCipher/tree/master)
