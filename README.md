@@ -6,6 +6,11 @@ A game that I have been working on for my Intro to Programming class during the 
 ## Programming Study Application :books: 
 An application that enables to take a short quiz on programming terms and tries to receive points: [Programming Study App](https://github.com/ricebunnylove1/ProgrammingStudyApp)
 
+## Image of Application Intro:
+
+![ProgrammingStudyApp](https://user-images.githubusercontent.com/67672827/88249850-4803d880-cc6b-11ea-9425-fc70a082faf3.png)
+
+
 ## Explorable Areas :world_map:
 An application enables the player to choose the places they want to explore and earn items for thier inventory: [Explorable Areas](https://github.com/ricebunnylove1/ExplorableAreas)
 
