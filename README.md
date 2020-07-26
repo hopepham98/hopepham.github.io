@@ -3,6 +3,11 @@
 ## Adventure Game :cat:
 A game that I have been working on for my Intro to Programming class during the Summer of 2020 that featuers object-oriented programming principles inheritance, encapsulation, and polymorphism. [Adventure With KATS THE Pirate](https://github.com/ricebunnylove1/AdventureWithKATSThePirate)
 
+### Image of Adventure Game Intro:
+
+![Intro](https://user-images.githubusercontent.com/67672827/88486783-cbf8e180-cf45-11ea-83f1-6e130e6e3256.png)
+
+
 ## Programming Study Application :books: 
 An application that enables to take a short quiz on programming terms and tries to receive points: [Programming Study App](https://github.com/ricebunnylove1/ProgrammingStudyApp)
 
